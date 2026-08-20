@@ -1,0 +1,4 @@
+.DS_Store
+.vendor/
+dist/codex-claude-offline-installer-linux.tar.gz
+dist/*.partial
